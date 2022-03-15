@@ -1,170 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T15:40:43.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="O3w7lrt1DNGNP5M1l_Ih" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T15:55:18.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="LZf2dEH-eV7Ov-RM365d" version="17.1.2" type="github">
   <diagram id="5ZxnQuudL4uZdT9jH_wA" name="Page-1">
-    <mxGraphModel dx="3412" dy="1371" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3015" dy="1160" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Docker Container&lt;/font&gt;" lucidchartObjectId="5dJ0.jRR9IyU" id="gigaPKPBDHnz8WdQhbf9-1">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;fontFamily=Orbitron;fontStyle=1;spacing=9;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
-            <mxGeometry x="-460" y="408" width="620" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" lucidchartObjectId="5dJ0rlq3~4Fx" id="gigaPKPBDHnz8WdQhbf9-2">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/8f73a67d-98c4-4391-aa76-9db469b5c389/content;imageAspect=0;" parent="1" vertex="1">
-            <mxGeometry x="16" y="370" width="146" height="61" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Azure Cloud Service" lucidchartObjectId="5dJ0Wv47G26P" id="gigaPKPBDHnz8WdQhbf9-3">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=31.7;fontFamily=Orbitron;fontStyle=1;spacing=9;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;fillColor=#CCFFFF;strokeColor=#000000;gradientColor=#ffffff;" parent="1" vertex="1">
-            <mxGeometry x="-528" y="588" width="1011" height="70" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" lucidchartObjectId="5dJ0pwiYZAwO" id="gigaPKPBDHnz8WdQhbf9-4">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;fillColor=#FFE6CC;strokeColor=#000000;gradientColor=#ffffff;" parent="1" vertex="1">
-            <mxGeometry x="-515" y="528" width="738" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;font color=&quot;#000000&quot;&gt;client&lt;/font&gt;" lucidchartObjectId="5dJ0d2CcGmJ8" id="gigaPKPBDHnz8WdQhbf9-5">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=23.3;fontColor=#ffffff;fontStyle=1;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;fillOpacity=100;fillColor=#D6E6F2;strokeWidth=2.3;gradientColor=#ffffff;" parent="1" vertex="1">
-            <mxGeometry x="-783" y="579.75" width="149" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="gigaPKPBDHnz8WdQhbf9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=23;fontColor=#000000;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#009900;strokeWidth=3;fillColor=#d5e8d4;" parent="1" source="gigaPKPBDHnz8WdQhbf9-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="197.5" y="206" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 23px&quot;&gt;CI/CD                                 GitHub Action&lt;/font&gt;" lucidchartObjectId="5dJ04Nt.R_r_" id="gigaPKPBDHnz8WdQhbf9-7">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=25;fontColor=#0c7cba;fontStyle=1;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
-            <mxGeometry x="55.5" y="106" width="284" height="56" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" lucidchartObjectId="5dJ08RIoen4k" id="gigaPKPBDHnz8WdQhbf9-8">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/ffd00b4e-e631-475e-89ba-7ca1df47d25b/content;imageAspect=0;" parent="1" vertex="1">
-            <mxGeometry x="160" y="42" width="56" height="56" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" lucidchartObjectId="5dJ0JAy07o26" id="gigaPKPBDHnz8WdQhbf9-9">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/e3c3d41d-9b30-4c32-9efb-2cf3ad3bf441/content;imageAspect=0;" parent="1" vertex="1">
-            <mxGeometry x="-745" y="474.25" width="73" height="94" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Version Control &#xa;GitHub" lucidchartObjectId="5dJ0labKl9B9" id="gigaPKPBDHnz8WdQhbf9-11">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;fontColor=#0c7cba;fontStyle=1;spacing=9;strokeColor=#000000;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
-            <mxGeometry x="572" y="568" width="209" height="90" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" lucidchartObjectId="5dJ0sTLdAlRI" id="gigaPKPBDHnz8WdQhbf9-12">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/1e14e7a4-72e1-4966-9fe5-32a3d546b0e7/content;imageAspect=0;" parent="1" vertex="1">
-            <mxGeometry x="-221.5" y="539" width="155" height="36" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" lucidchartObjectId="5dJ0LPbcEMf5" id="gigaPKPBDHnz8WdQhbf9-13">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/85f17002-c46c-4dff-aeaf-c786d59412df/content;imageAspect=0;" parent="1" vertex="1">
-            <mxGeometry x="683" y="486.28999999999996" width="109" height="90.71" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Kubernetes cluster node" lucidchartObjectId="5dJ0.jRR9IyU" id="gigaPKPBDHnz8WdQhbf9-14">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;fontFamily=Orbitron;fontStyle=1;spacing=9;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
-            <mxGeometry x="-499.5" y="468" width="711" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="gigaPKPBDHnz8WdQhbf9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#000000;endArrow=none;endFill=0;strokeColor=#0027FC;startArrow=classic;startFill=1;fillColor=#0050ef;strokeWidth=3;dashed=1;" parent="1" source="gigaPKPBDHnz8WdQhbf9-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-78" y="246" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="352" y="246" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="&lt;div style=&quot;display: flex ; justify-content: center ; text-align: center ; align-items: baseline ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px&quot; face=&quot;Orbitron&quot;&gt;Azure database MySQL Server&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" lucidchartObjectId="5dJ0KtJUvClA" id="gigaPKPBDHnz8WdQhbf9-16">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
-            <mxGeometry x="292" y="506" width="149" height="82" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;display: flex ; justify-content: center ; text-align: center ; align-items: baseline ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px&quot; face=&quot;Orbitron&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Nodejs&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" lucidchartObjectId="5dJ0KtJUvClA" id="gigaPKPBDHnz8WdQhbf9-17">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;verticalAlign=middle;fillColor=#CCFFE6;strokeColor=default;gradientColor=#ffffff;" parent="1" vertex="1">
-            <mxGeometry x="-318" y="356" width="149" height="52" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="gigaPKPBDHnz8WdQhbf9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fontSize=19;fontColor=#000000;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=#009900;fillColor=#d5e8d4;strokeWidth=3;dashed=1;" parent="1" source="gigaPKPBDHnz8WdQhbf9-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-110.99999999999955" y="206" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-111" y="266" />
-              <mxPoint x="-111" y="266" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gigaPKPBDHnz8WdQhbf9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;fontSize=19;fontColor=#000000;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=#0027FC;strokeWidth=3;fillColor=#0050ef;" parent="1" source="gigaPKPBDHnz8WdQhbf9-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-73" y="246" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-73" y="286" />
-              <mxPoint x="-73" y="286" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="&lt;div style=&quot;display: flex ; justify-content: center ; text-align: center ; align-items: baseline ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Orbitron&quot;&gt;phpmyadmin&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" lucidchartObjectId="5dJ0KtJUvClA" id="gigaPKPBDHnz8WdQhbf9-20">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;verticalAlign=bottom;" parent="1" vertex="1">
-            <mxGeometry x="-148" y="326" width="149" height="82" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="gigaPKPBDHnz8WdQhbf9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=19;fontColor=#000000;endArrow=none;endFill=0;startArrow=classic;startFill=1;fillColor=#0050ef;strokeColor=#0027FC;strokeWidth=3;dashed=1;" parent="1" source="gigaPKPBDHnz8WdQhbf9-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-78" y="246" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-243" y="246" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gigaPKPBDHnz8WdQhbf9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#000000;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=default;strokeWidth=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="gigaPKPBDHnz8WdQhbf9-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-708" y="436" as="targetPoint" />
-            <mxPoint x="-318" y="316" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-708" y="321" />
-              <mxPoint x="-708" y="456" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="&lt;div style=&quot;display: flex ; justify-content: center ; text-align: center ; align-items: baseline ; line-height: 1.25 ; margin-top: -2px&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px&quot; face=&quot;Orbitron&quot;&gt;&amp;nbsp; &amp;nbsp; AdonisJS&amp;nbsp; Application&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" lucidchartObjectId="5dJ0KtJUvClA" id="gigaPKPBDHnz8WdQhbf9-23">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
-            <mxGeometry x="-305.5" y="286" width="125.5" height="70" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="gigaPKPBDHnz8WdQhbf9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#009900;entryX=0.204;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeWidth=3;dashed=1;" parent="1" source="gigaPKPBDHnz8WdQhbf9-11" target="gigaPKPBDHnz8WdQhbf9-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-18" y="206" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="682" y="206" />
-              <mxPoint x="-279" y="206" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gigaPKPBDHnz8WdQhbf9-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png;" parent="1" vertex="1">
-          <mxGeometry x="-285" y="480.99" width="32.89" height="32.02" as="geometry" />
-        </mxCell>
-        <mxCell id="gigaPKPBDHnz8WdQhbf9-25" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;fontColor=#000000;strokeColor=#000000;fillColor=#0C7CBA;" parent="1" vertex="1">
-          <mxGeometry x="382" y="454.66999999999996" width="48" height="63.99" as="geometry" />
-        </mxCell>
-        <mxCell id="gigaPKPBDHnz8WdQhbf9-26" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-world.net/wp-content/uploads/2021/05/Azure-Logo-700x394.png;" parent="1" vertex="1">
-          <mxGeometry x="-159" y="607.0799999999999" width="56.5" height="31.84" as="geometry" />
-        </mxCell>
-        <mxCell id="gigaPKPBDHnz8WdQhbf9-27" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/2560px-PhpMyAdmin_logo.svg.png;" parent="1" vertex="1">
-          <mxGeometry x="-110.5" y="336.74" width="73.99" height="41.26" as="geometry" />
-        </mxCell>
-        <mxCell id="gigaPKPBDHnz8WdQhbf9-28" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.etondigital.com/wp-content/uploads/2020/12/logo-nodejs.svg;" parent="1" vertex="1">
-          <mxGeometry x="-297" y="364.48" width="30" height="33.05" as="geometry" />
-        </mxCell>
-        <mxCell id="gigaPKPBDHnz8WdQhbf9-29" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" parent="1" vertex="1">
-          <mxGeometry x="-298" y="294.76" width="21.24" height="21.24" as="geometry" />
-        </mxCell>
-        <mxCell id="gigaPKPBDHnz8WdQhbf9-30" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/docker-128.png;fontSize=18;fontColor=#3399FF;strokeColor=#000000;strokeWidth=8;fillColor=#CCFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-266.75" y="414" width="48" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="syT31ze0c6iXmZZZjcOh-19" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-720" y="840" width="150" height="110" as="geometry" />
+          <mxGeometry x="-710" y="250" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="syT31ze0c6iXmZZZjcOh-3" value="Database&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Azure Database SQL" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;verticalAlign=top;fontColor=#4D4D4D;" parent="syT31ze0c6iXmZZZjcOh-19" vertex="1">
           <mxGeometry width="150" height="110" as="geometry" />
@@ -173,7 +14,7 @@
           <mxGeometry x="58" y="32.65999999999997" width="32.51" height="43.34" as="geometry" />
         </mxCell>
         <mxCell id="syT31ze0c6iXmZZZjcOh-20" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-560" y="840" width="220" height="110" as="geometry" />
+          <mxGeometry x="-550" y="250" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="syT31ze0c6iXmZZZjcOh-7" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Monitoring&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;K8sLens&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;phpMyAdmin" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;verticalAlign=top;fontColor=#4D4D4D;" parent="syT31ze0c6iXmZZZjcOh-20" vertex="1">
           <mxGeometry width="220" height="110" as="geometry" />
@@ -185,7 +26,7 @@
           <mxGeometry x="38" y="34" width="46" height="46" as="geometry" />
         </mxCell>
         <mxCell id="syT31ze0c6iXmZZZjcOh-26" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-430" y="960" width="150" height="110" as="geometry" />
+          <mxGeometry x="-420" y="370" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="syT31ze0c6iXmZZZjcOh-24" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;IDE&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Visual Studio Code&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;verticalAlign=top;fontStyle=0;fontColor=#4D4D4D;" parent="syT31ze0c6iXmZZZjcOh-26" vertex="1">
           <mxGeometry width="150" height="110" as="geometry" />
@@ -194,7 +35,7 @@
           <mxGeometry x="47.14285714285714" y="30" width="53.57142857142857" height="50" as="geometry" />
         </mxCell>
         <mxCell id="syT31ze0c6iXmZZZjcOh-29" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-720" y="720" width="210" height="110" as="geometry" />
+          <mxGeometry x="-710" y="130" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="syT31ze0c6iXmZZZjcOh-2" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Front-end, back-end&lt;/span&gt;&lt;/div&gt;&lt;font&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;AdonisJS&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;NodeJS&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;verticalAlign=top;fontStyle=0;fontColor=#4D4D4D;" parent="syT31ze0c6iXmZZZjcOh-29" vertex="1">
           <mxGeometry width="210" height="110" as="geometry" />
@@ -206,7 +47,7 @@
           <mxGeometry x="133" y="33" width="40" height="44.07" as="geometry" />
         </mxCell>
         <mxCell id="syT31ze0c6iXmZZZjcOh-37" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-270" y="960" width="150" height="110" as="geometry" />
+          <mxGeometry x="-260" y="370" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="syT31ze0c6iXmZZZjcOh-34" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Other&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Posman&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;verticalAlign=top;fontStyle=0;fontColor=#4D4D4D;" parent="syT31ze0c6iXmZZZjcOh-37" vertex="1">
           <mxGeometry width="150" height="110" as="geometry" />
@@ -215,24 +56,24 @@
           <mxGeometry x="50" y="30" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="syT31ze0c6iXmZZZjcOh-14" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Infrastructure&lt;/span&gt;&lt;/div&gt;&lt;font&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Azure&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Ubuntu&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Docker&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Kubernetes&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;verticalAlign=top;fontStyle=0;fontColor=#4D4D4D;" parent="1" vertex="1">
-          <mxGeometry x="-500" y="720" width="360" height="110" as="geometry" />
+          <mxGeometry x="-490" y="130" width="360" height="110" as="geometry" />
         </mxCell>
         <UserObject label="" lucidchartObjectId="5dJ0rlq3~4Fx" id="syT31ze0c6iXmZZZjcOh-15">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/8f73a67d-98c4-4391-aa76-9db469b5c389/content;imageAspect=0;" parent="1" vertex="1">
-            <mxGeometry x="-334" y="760" width="76" height="31.75" as="geometry" />
+            <mxGeometry x="-324" y="170" width="76" height="31.75" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="syT31ze0c6iXmZZZjcOh-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="747" width="52.89" height="51.49" as="geometry" />
+          <mxGeometry x="-230" y="157" width="52.89" height="51.49" as="geometry" />
         </mxCell>
         <mxCell id="syT31ze0c6iXmZZZjcOh-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-world.net/wp-content/uploads/2021/05/Azure-Logo-700x394.png;" parent="1" vertex="1">
-          <mxGeometry x="-485" y="752.36" width="84.53" height="47.64" as="geometry" />
+          <mxGeometry x="-475" y="162.36" width="84.53" height="47.64" as="geometry" />
         </mxCell>
         <mxCell id="syT31ze0c6iXmZZZjcOh-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png;" parent="1" vertex="1">
-          <mxGeometry x="-398" y="753" width="47" height="47" as="geometry" />
+          <mxGeometry x="-388" y="163" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="syT31ze0c6iXmZZZjcOh-52" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-330" y="840" width="150" height="110" as="geometry" />
+          <mxGeometry x="-320" y="250" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="syT31ze0c6iXmZZZjcOh-12" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span&gt;CI/CD&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Github Action&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;verticalAlign=top;fontStyle=0;fontColor=#4D4D4D;" parent="syT31ze0c6iXmZZZjcOh-52" vertex="1">
           <mxGeometry width="150" height="110" as="geometry" />
@@ -243,7 +84,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="syT31ze0c6iXmZZZjcOh-56" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-720" y="960" width="280" height="110" as="geometry" />
+          <mxGeometry x="-710" y="370" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="syT31ze0c6iXmZZZjcOh-39" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Comunication and Design&lt;/span&gt;&lt;/div&gt;&lt;font&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Clickup&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Figma&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Miro&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;app.diagram&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;verticalAlign=top;fontStyle=0;fontColor=#4D4D4D;" parent="syT31ze0c6iXmZZZjcOh-56" vertex="1">
           <mxGeometry width="280" height="110" as="geometry" />
