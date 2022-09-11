@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-11T08:14:17.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="SF8IqUVdJbOQuQCz2E7N" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-11T08:18:50.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="rykSF60FbKBBLFuzOZ7J" version="20.3.0" type="github">
   <diagram id="W7xRG77HPcerO7Vm1X2N" name="Page-1">
     <mxGraphModel dx="2211" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -322,47 +322,71 @@
         <mxCell id="Ld4D-Se43NCBkzc8XcNN-30" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/docker-128.png;fontSize=18;fontColor=#3399FF;strokeColor=#000000;strokeWidth=8;fillColor=#CCFFFF;" vertex="1" parent="1">
           <mxGeometry x="-277.75" y="1162" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="Ld4D-Se43NCBkzc8XcNN-36" value="&lt;font face=&quot;Orbitron&quot;&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;Container&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-759.02" y="1940" width="197.02" height="60" as="geometry" />
+        <mxCell id="Ld4D-Se43NCBkzc8XcNN-36" value="&lt;font face=&quot;Orbitron&quot;&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;Containers&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="2550" width="197.02" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ld4D-Se43NCBkzc8XcNN-42" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Orbitron; font-size: 32px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Nginx ingress&lt;br&gt;Controller&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-759" y="1780" width="197.02" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="Ld4D-Se43NCBkzc8XcNN-45" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Orbitron; font-size: 32px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Anonis Application&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-523.99" y="1720" width="197.02" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="Ld4D-Se43NCBkzc8XcNN-46" value="&lt;font face=&quot;Orbitron&quot;&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;Container&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-523.99" y="1940" width="197.02" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Ld4D-Se43NCBkzc8XcNN-47" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Orbitron; font-size: 32px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;phpmyadmin&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-285" y="1780" width="197.02" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="Ld4D-Se43NCBkzc8XcNN-48" value="&lt;font face=&quot;Orbitron&quot;&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;Container&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-285" y="1940" width="197.02" height="60" as="geometry" />
+          <mxGeometry x="-809.98" y="2390" width="197.02" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Ld4D-Se43NCBkzc8XcNN-49" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-759.02" y="2000" width="919.02" height="320" as="geometry" />
+          <mxGeometry x="-810" y="2610" width="1410" height="320" as="geometry" />
         </mxCell>
         <mxCell id="Ld4D-Se43NCBkzc8XcNN-31" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Orbitron; font-size: 32px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Azure Cloud&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ld4D-Se43NCBkzc8XcNN-49">
-          <mxGeometry x="0.012755131781643062" y="240" width="919.0072448682184" height="80" as="geometry" />
+          <mxGeometry x="0.019569471624248352" y="240" width="1409.9804305283758" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ld4D-Se43NCBkzc8XcNN-32" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Orbitron; font-size: 32px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Azure Kubernetes Service&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ld4D-Se43NCBkzc8XcNN-49">
-          <mxGeometry x="0.012755131781643062" y="160" width="919.0072448682184" height="80" as="geometry" />
+          <mxGeometry x="0.019569471624248352" y="160" width="1409.9804305283758" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ld4D-Se43NCBkzc8XcNN-33" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Orbitron; font-size: 32px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Kubernetes Master&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ld4D-Se43NCBkzc8XcNN-49">
-          <mxGeometry x="0.012755131781643062" y="80" width="919.0072448682184" height="80" as="geometry" />
+          <mxGeometry x="0.019569471624248352" y="80" width="1409.9804305283758" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ld4D-Se43NCBkzc8XcNN-34" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Orbitron; font-size: 32px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Node&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ld4D-Se43NCBkzc8XcNN-49">
-          <mxGeometry width="919.0072448682184" height="80" as="geometry" />
+          <mxGeometry width="1409.9804305283758" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ld4D-Se43NCBkzc8XcNN-50" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Orbitron; font-size: 32px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Node&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-37.02000000000001" y="1780" width="197.02" height="160" as="geometry" />
+        <mxCell id="Ld4D-Se43NCBkzc8XcNN-50" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Orbitron; font-size: 32px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;MySQL Server&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-88" y="2390" width="197.02" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Ld4D-Se43NCBkzc8XcNN-51" value="&lt;font face=&quot;Orbitron&quot;&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;Container&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-37.02000000000001" y="1940" width="197.02" height="60" as="geometry" />
+          <mxGeometry x="-88" y="2550" width="197.02" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ld4D-Se43NCBkzc8XcNN-52" value="&lt;font face=&quot;Orbitron&quot;&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;NodeJS&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-523.99" y="1880" width="197.02" height="60" as="geometry" />
+        <mxCell id="Ld4D-Se43NCBkzc8XcNN-55" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-574.97" y="2330" width="197.01999999999998" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld4D-Se43NCBkzc8XcNN-45" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Orbitron; font-size: 32px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Anonis Application&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ld4D-Se43NCBkzc8XcNN-55">
+          <mxGeometry width="197.02" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld4D-Se43NCBkzc8XcNN-46" value="&lt;font face=&quot;Orbitron&quot;&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;Container&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ld4D-Se43NCBkzc8XcNN-55">
+          <mxGeometry y="220" width="197.02" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld4D-Se43NCBkzc8XcNN-52" value="&lt;font face=&quot;Orbitron&quot;&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;NodeJS&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ld4D-Se43NCBkzc8XcNN-55">
+          <mxGeometry y="160" width="197.02" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld4D-Se43NCBkzc8XcNN-56" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-335.98" y="2390" width="197.02" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld4D-Se43NCBkzc8XcNN-47" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Orbitron; font-size: 32px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;phpmyadmin&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ld4D-Se43NCBkzc8XcNN-56">
+          <mxGeometry width="197.02" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld4D-Se43NCBkzc8XcNN-48" value="&lt;font face=&quot;Orbitron&quot;&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;Container&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ld4D-Se43NCBkzc8XcNN-56">
+          <mxGeometry y="160" width="197.02" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld4D-Se43NCBkzc8XcNN-57" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="151" y="2390" width="197.01999999999998" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld4D-Se43NCBkzc8XcNN-53" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Orbitron; font-size: 32px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;ArgoCD&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ld4D-Se43NCBkzc8XcNN-57">
+          <mxGeometry width="197.02" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld4D-Se43NCBkzc8XcNN-54" value="&lt;font face=&quot;Orbitron&quot;&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;Containers&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ld4D-Se43NCBkzc8XcNN-57">
+          <mxGeometry y="160" width="197.02" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld4D-Se43NCBkzc8XcNN-58" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="403" y="2390" width="197.01999999999998" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld4D-Se43NCBkzc8XcNN-59" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Orbitron; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 31px;&quot;&gt;Cert-Manager&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ld4D-Se43NCBkzc8XcNN-58">
+          <mxGeometry width="197.02" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld4D-Se43NCBkzc8XcNN-60" value="&lt;font face=&quot;Orbitron&quot;&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;Containers&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ld4D-Se43NCBkzc8XcNN-58">
+          <mxGeometry y="160" width="197.02" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
